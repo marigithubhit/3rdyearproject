@@ -1,0 +1,99 @@
+body{
+	font-family:'bold';
+	margin:0;
+	padding:0;
+}
+header{
+	background-color:lavenderblush;
+	text-align:center;
+	padding:30px;
+}
+nav ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	background-color:#333;
+}
+nav li{
+	float:left;
+}
+nav a{
+	display:block;
+	color:white;
+	text-align:center;
+	padding:10px;
+	text-decoration:dotted;
+}
+nav a:hover{
+	background-color:aqua;
+}
+
+.home{
+	
+	padding:100px;
+	background-color:lightblue;
+	}
+.about
+{
+padding:100px;
+
+
+}
+.contact
+{
+height:200px;
+width:300px;
+border-radius: 100px;
+background-color: green;
+padding:40px;
+}
+.form{
+	padding:300px;
+	height:200px;
+width:300px;
+
+background-color:lavender;
+padding:40px;
+
+}
+span
+{
+	color:black;
+}
+h1{
+	text-align: center;
+}
+.top ul{
+	font-weight: 400px;
+	height:50px;
+	width:100px;
+	border-radius:40%;
+	text-decoration: none;
+	text-overflow: initial;
+	display: flex;
+	justify-content: center;
+
+}
+.list{
+	align-items: center;
+	justify-content:center;
+	text-align: left;
+	display:flex;
+}
+.list ol li{
+	background-color: aquamarine;
+	height:40px;
+	width:100px;
+	border-radius: 10px;
+	align-items: center;
+	justify-content:space-around;
+	text-align: left;
+	display:flex;
+
+}
+
+	
+	
+
+

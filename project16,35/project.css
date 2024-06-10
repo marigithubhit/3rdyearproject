@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    padding:0;
+}
+h1{
+    background-color:plum;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 50px;
+}
+.items{
+    display: flex;
+    border-radius:100px;
+    height: 30px;
+    width:50px;
+    background-color: blue;
+}
+nav {
+    display: flex;
+}
+nav li{
+    margin-right: 100px;
+    display: block;
+    background-color: aquamarine;
+    padding: 30px;
+
+}
